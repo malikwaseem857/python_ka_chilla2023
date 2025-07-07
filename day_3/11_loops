@@ -27,12 +27,12 @@
 #     print(d)  # it will print each day in the array
 
 
-days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+# days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
-for d in days:
-    # if (d=="Friday"): # break will stop the loop
-    if (d=="Friday"): continue # continue will skip the current iteration like "friday"
-    print(d)
+# for d in days:
+#     # if (d=="Friday"): # break will stop the loop
+#     if (d=="Friday"): continue # continue will skip the current iteration like "friday"
+#     print(d)
 
 
 # loops done
