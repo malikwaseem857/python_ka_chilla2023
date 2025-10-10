@@ -1,3 +1,3 @@
 print("My name is Waseem") 
 print("Hello World")
-// how to make a chart in python?
+// How to make a chart in python?
