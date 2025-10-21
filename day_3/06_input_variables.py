@@ -20,10 +20,3 @@
 # greeting="Hello!"
 
 # print(greeting, name, "You are still young")
-# #input_Waseem_you are still cool
-
-
-
-# name = "Waseem"
-# print(name)
-
