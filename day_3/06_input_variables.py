@@ -10,7 +10,7 @@
 # greating= "Hello!"
 
 # another way of stage 2 input function
-# print(greating + " " + name)  # Output: Hello John
+# print("Hello! name)  # Output: Hello!
 # name input = input("What is your name? ")
 
 
