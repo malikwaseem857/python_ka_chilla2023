@@ -26,13 +26,12 @@
 
 # explicit type conversion
 # age=input("what is your age?")
-# # print(type(age))
-# # age=int(age)
-# # print(type(age))
+# print(type(age))
+# age=int(age)
+# print(type(age))
 # print(type(int(age))) #if age is 18.5
 
 # print(type(float(age)))
-
 
 #name
 name=input("What is your name?" )
