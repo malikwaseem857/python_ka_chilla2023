@@ -32,7 +32,7 @@
 #  12. Variable name should not be a valid Python package name e.g. math, random, os etc.
 
 #  6 Rules from Codanics
-#  1. The variables should contain letters, numbers or underscores.e.g. name, age, address etc.
+#  1. The variables should contain letters, numbers or underscores. e.g. name, age, address etc.
 #  2. The variables should not start with a number. e.g. 1name, 2age etc.
 #  3. Spaces are not allowed in the variable name. e.g. name of the person etc.
 #  4. Do not use keywords used in function (break, mean, media, test etc.)
@@ -42,8 +42,8 @@
 # Examples of variables
 # fruit_basket= 8
 # fruit_basket= "mangoes"
-# print(type(fruit_basket))
-# print(type(fruit_basket))
+# print(type(fruit_basket)) # as we move down our varaiables will change accordingly
+# print(type(fruit_basket)) # now it will be mangoes
 
 
 # print_variables-done
