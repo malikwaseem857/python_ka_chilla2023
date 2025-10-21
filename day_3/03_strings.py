@@ -8,8 +8,9 @@ print('''I am Ammar.Meri amma mjhy chand jesa kehti hnvand i am still young
 
 
 print("2+3+4+4")
-# Assigment: What is type casting and how do you do it?
+# Assignment: What is type casting and how do you do it?
 
+# Spaces don't matter in operators
 print("what's up?          ")
 
 # binary and boolean Data
