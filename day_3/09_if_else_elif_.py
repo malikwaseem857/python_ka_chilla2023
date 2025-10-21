@@ -6,7 +6,7 @@
 # if hammad_age==required_age_at_school:
 #     print("Hammad can go to school")
 # else: 
-#     print("Hammad cannot go to school")
+#     print("Hammad cannot go to school") # output: "Hammad cannot go to school"
 
 # hammad_age = 10
 # required_age_at_school= 5
