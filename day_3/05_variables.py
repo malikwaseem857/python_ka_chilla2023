@@ -9,44 +9,44 @@
 # print(x)
 
 
-# # types of variables
-# type(x)
+# # types/class of variables
+# type(x) # it will not show anything
 # print(type(x))
 
 # print(type(y))
 
-# #print_type-class
+# print_type_class
 
-# # Rules to assign values to variables
-# # 1. Variable name should be a valid identifier e.g . name, age, address etc.
-# # 2. Variable name should not be a keyword e.g . if, else, for, while etc.
-# # 3. Variable name should not start with a number e.g . 1name, 2age etc.
-# # 4. Variable name should not contain any special characters except underscore e.g . name_1, name@1 etc.
-# # 5. Variable name should be case sensitive e.g . name, Name, NAME etc.
-# # 6. Variable name should not be too long e.g . name_of_the_person_who_is_learning_python etc.
-# # 7. Variable name should be meaningful e.g . name, age, address etc.
-# # 8. Variable name should not be a valid Python identifier e.g . class, def, for etc.
-# # 9. Variable name should not be a valid Python function name e.g . print, len, max etc.
-# # 10. Variable name should not be a valid Python class name e.g . list, dict, set etc.
-# # 11. Variable name should not be a valid Python module name e.g . math, random, os etc.
-# # 12. Variable name should not be a valid Python package name e.g . math, random, os etc.
+#  Rules to assign values to variables
+#  1. Variable name should be a valid identifier e.g. name, age, address etc.
+#  2. Variable name should not be a keyword e.g. if, else, for, while etc.
+#  3. Variable name should not start with a number e.g. 1name, 2age etc.
+#  4. Variable name should not contain any special characters except underscore e.g. name_1, name@1 etc.
+#  5. Variable name should be case sensitive e.g. name, Name, NAME etc.
+#  6. Variable name should not be too long e.g. name_of_the_person_who_is_learning_python etc.
+#  7. Variable name should be meaningful e.g. name, age, address etc.
+#  8. Variable name should not be a valid Python identifier e.g. class, def, for etc.
+#  9. Variable name should not be a valid Python function name e.g. print, len, max etc.
+#  10. Variable name should not be a valid Python class name e.g. list, dict, set etc.
+#  11. Variable name should not be a valid Python module name e.g. math, random, os etc.
+#  12. Variable name should not be a valid Python package name e.g. math, random, os etc.
 
-# # 6 Rules from Codanics
-# # 1. The variables should contain letters, numbers or underscores.e.g . name, age, address etc.
-# # 2. The variables should not start with a number. e.g . 1name, 2age etc.
-# # 3. Spaces are not allowed in the variable name. e.g . name of the person etc.
-# # 4. Do not use keywords used in function (break, mean, media, test etc.)
-# # 5. Short and descriptive
-# # 6. Case sensitive e.g . name, Name, NAME etc.
+#  6 Rules from Codanics
+#  1. The variables should contain letters, numbers or underscores.e.g. name, age, address etc.
+#  2. The variables should not start with a number. e.g. 1name, 2age etc.
+#  3. Spaces are not allowed in the variable name. e.g. name of the person etc.
+#  4. Do not use keywords used in function (break, mean, media, test etc.)
+#  5. Short and descriptive
+#  6. Case sensitive e.g. name, Name, NAME etc. Always use lower_case letters
+
+# Examples of variables
+# fruit_basket= 8
+# fruit_basket= "mangoes"
+# print(type(fruit_basket))
+# print(type(fruit_basket))
 
 
-# # fruit_basket= 8
-# # # fruit_basket= "mangoes"
-# # print(type(fruit_basket))
-# # print(type(fruit_basket))
-
-
-# # #print_variables-done
+# print_variables-done
 
 
 
