@@ -7,7 +7,7 @@
 
 # #input function of 2nd stage
 # name= input("What is your name? ")
-# greating= "Hello"
+# greating= "Hello!"
 
 # another way of stage 2 input function
 # print(greating + " " + name)  # Output: Hello John
