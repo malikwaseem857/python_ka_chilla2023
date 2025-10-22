@@ -80,7 +80,7 @@ day_4
 # # 3. don't ever use variable names with spaces instead use _.
 # # 4. don't capitalise it
 # # 5. short and meaningful name just 2 letters
-# # 6. use camel case for variable names e.g. nameOfThePerson, ageOfThePerson, etc.
+# # 6. use small case for variable names e.g. nameOfThePerson, ageOfThePerson, etc.
 # # 7. don't start with special characters( at the start, middle, or at the end.) e.g . !, @, #, $, %, ^, &, *, (, ), _, +,
 # # 8. See global trends and use them e.g . use of underscores in variable names is very common in python
 # # 9. Don't repeat variable names because it is will repeat the code
