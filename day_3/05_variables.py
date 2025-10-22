@@ -35,14 +35,14 @@
 #  1. The variables should contain letters, numbers or underscores. e.g. name, age, address etc.
 #  2. The variables should not start with a number. e.g. 1name, 2age etc.
 #  3. Spaces are not allowed in the variable name. e.g. name of the person etc.
-#  4. Do not use keywords used in function (break, mean, media, test etc.)
+#  4. Do not use keywords used in functions (break, mean, media, test etc.)
 #  5. Short and descriptive
 #  6. Case sensitive e.g. name, Name, NAME etc. Always use lower_case letters
 
 # Examples of variables
 # fruit_basket= 8
 # fruit_basket= "mangoes"
-# print(type(fruit_basket)) # as we move down our varaiables will change accordingly
+# print(type(fruit_basket)) # as we move down our variables will change accordingly
 # print(type(fruit_basket)) # now it will be mangoes
 
 
@@ -62,7 +62,7 @@
 
 
 
-
+day_4 
 
 
 # samosa =( 'Aalo', 'piaz','sabz march', 'dhania', 'keema', 'namak' )
@@ -75,18 +75,18 @@
 # # 5. easy to read
 
 # # Strategy
-# # 1. Don't use reserved word for python e,g . class, def, for, if, else, elif, and, as, finally, Del, except, lambda, for, none, return etc.
+# # 1. Don't use reserved words for python e,g . class, def, for, if, else, elif, and, as, finally, Del, except, lambda, for, none, return etc.
 # # 2. it should not auto-telly
-# # 3. don't ever use variables names with spaces instead use _.
-# # 4. don't capitalize it
+# # 3. don't ever use variable names with spaces instead use _.
+# # 4. don't capitalise it
 # # 5. short and meaningful name just 2 letters
-# # 6. use camel case for variable names e.g . nameOfThePerson, ageOfThePerson etc.
+# # 6. use camel case for variable names e.g. nameOfThePerson, ageOfThePerson, etc.
 # # 7. don't start with special characters( at the start, middle, or at the end.) e.g . !, @, #, $, %, ^, &, *, (, ), _, +,
-# # 8. See global trends and use them e.g . use of underscore in variable names is very common in python
+# # 8. See global trends and use them e.g . use of underscores in variable names is very common in python
 # # 9. Don't repeat variable names because it is will repeat the code
 # # 10. Don't use operators in variable names e.g . +, -, *, /, %, etc.
 # # 11. For updation use _1 and _2 etc. e.g . name_1, name_2 etc.
-# # 12. don't use quatation marks
+# # 12. don't use quotation marks
 
 # x = 2+4+4+5*(4+3)
 
