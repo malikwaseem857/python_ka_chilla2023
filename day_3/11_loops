@@ -1,0 +1,45 @@
+# 2 kind of loops
+# While loop and For loops
+
+# x=0
+# while (x<5):  # while is a function
+#     print(x)
+#     x=x+1 #if you don't increment the value, it will be stuck in an infinite loop
+
+# x=0
+# while (x<=5):  # while is a function
+#     print(x)
+#     x=x+1
+# For loops
+# for x in range(5):  # range is a function
+#     print(x)  # it will print 0,1,2,3,4
+# 
+#
+for x in range(4-11):  # range is a function
+#     print(x)  # it will print 4,6,7,8,9,10
+#
+#
+#
+#
+# array
+# days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
+# for d in days:
+#     print(d)  # it will print each day in the array
+
+# days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
+# for d in days:
+#     if (d=="Friday"): break # break will stop the loop
+#     print(d)  # it will print each day in the array
+
+
+# days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
+# for d in days:
+#     # if (d=="Friday"): # break will stop the loop
+#     if (d=="Friday"): continue # continue will skip the current iteration like "friday"
+#     print(d)
+
+
+# loops done
