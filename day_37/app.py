@@ -5,6 +5,7 @@ import seaborn as sns
 from ydata_profiling import ProfileReport
 from streamlit_pandas_profiling import st_profile_report
 
+
 # Load dataset
 df = sns.load_dataset("titanic")
 
